@@ -1,5 +1,5 @@
 
 const sum = (a, b) => {
     console.log(a + b)
-    console.log('Привет')
+    console.log('Привет, ветка 2')
 }
